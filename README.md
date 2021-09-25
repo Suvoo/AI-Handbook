@@ -14,4 +14,6 @@ Trying to document what I can
 * Recurrent Neural Networks
 * Object Detection(bounding box)
 * Albumentation - pytorch
-* Segmenation(current)
+* Segmenation
+
+## Machine Learning
