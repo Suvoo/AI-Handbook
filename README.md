@@ -17,3 +17,5 @@ Trying to document what I can
 * Segmenation
 
 ## Machine Learning
+* Introduction
+* Regression
