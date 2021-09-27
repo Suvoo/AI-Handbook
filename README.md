@@ -19,3 +19,5 @@ Trying to document what I can
 ## Machine Learning
 * Introduction
 * Regression
+* Flask WebApp
+* Classification
