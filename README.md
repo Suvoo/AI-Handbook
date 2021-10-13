@@ -1,8 +1,10 @@
 
 ![image](https://user-images.githubusercontent.com/52796258/134777018-02326da1-be49-4382-b534-9801124fe177.png)
 
-# Deep-Learning-Handbook
+# AI-Handbook
 Trying to document what I can
+
+## Pytorch 
 
 * Intro to Neural Networks
 * Into to Pytorch
@@ -21,3 +23,7 @@ Trying to document what I can
 * Regression
 * Flask WebApp
 * Classification
+
+## Jax [Here](https://jax.readthedocs.io/en/latest/)
+
+
