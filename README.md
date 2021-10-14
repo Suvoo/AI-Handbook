@@ -23,6 +23,7 @@ Trying to document what I can
 * Regression
 * Flask WebApp
 * Classification
+* Clustering
 
 ## Jax [Here](https://jax.readthedocs.io/en/latest/)
 
