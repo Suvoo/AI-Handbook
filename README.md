@@ -18,12 +18,15 @@ Trying to document what I can
 * Albumentation - pytorch
 * Segmenation
 
-## Machine Learning
+## Machine Learning 
+
 * Introduction
 * Regression
 * Flask WebApp
 * Classification
 * Clustering
+* Natural Language Processing
+
 
 ## Jax [Here](https://jax.readthedocs.io/en/latest/)
 
