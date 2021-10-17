@@ -28,6 +28,6 @@ Trying to document what I can
 * Natural Language Processing
 
 
-## Jax [Here](https://jax.readthedocs.io/en/latest/)
+## Jax 
 
 
