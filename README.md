@@ -18,6 +18,10 @@ Trying to document what I can
 * Albumentation - pytorch
 * Segmenation
 
+## TensorFlow
+* Introduction
+
+
 ## Machine Learning 
 
 * Introduction
